@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# React-Native_PrimerParcial
-=======
+
 # Primer Parcial Certificación React Native: Calculadora con modo claro y modo oscuro
 Se presenta una aplicación de calculadora en React Native con Expo CLI.
 
@@ -80,4 +78,3 @@ calculadora/
 ├── package.json
 ├── README.md
 ```
->>>>>>> 4d3b73d (calculadoraa)
