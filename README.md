@@ -52,6 +52,7 @@ Esto abrirá el servidor de desarrollo de Expo. Generara el código QR que podra
 
 ## Demostración 
 Aquí podemos ver la aplicación en funcionamiento:
+https://youtube.com/shorts/bbsWxP335fs?si=zQRAH88px2eDlhqK
 
 ## Estructura del proyecto
 ```sh
